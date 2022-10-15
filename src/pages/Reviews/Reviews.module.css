@@ -1,0 +1,16 @@
+.Container {
+  padding: 20px 15px;
+  width: 1400px;
+  margin: 0 auto;
+}
+.CastListItem:not(:last-child) {
+  margin-bottom: 20px;
+}
+.Apologize {
+  display: block;
+  padding-top: 10px;
+  text-align: center;
+}
+.Author {
+  font-weight: normal;
+}

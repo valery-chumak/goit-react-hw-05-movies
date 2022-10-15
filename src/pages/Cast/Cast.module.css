@@ -1,0 +1,16 @@
+.Container {
+}
+.CastList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.CastListItem {
+  margin: 10px;
+}
+.Poster_image {
+  display: block;
+  height: 300px;
+  width: 200px;
+  object-fit: cover;
+}
